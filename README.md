@@ -1,7 +1,6 @@
-# PPF v0.6 reference files
+# PPF v0.6 platform files
 
-This delivery contains seven public research input files only. It contains no golden answers, task rubric, private conversation history, or credentials.
+- Reference files: `downloads/ppf_references_v06.zip` (seven inputs).
+- Reference answers: `downloads/ppf_golden_v06.zip` (two golden deliverables). Upload these only to the reference-answer field, not the model input field.
 
-Download `downloads/ppf_references_v06.zip` and extract its seven files for the platform reference-file field.
-
-SHA256: `18f9c70b7ebd9fd027477c9c2387d9895ac9cb8709d52a41d34579068e6eb2bd`
+The two manifests record file sizes, members and SHA256 checksums. No private conversation history or credentials are included.

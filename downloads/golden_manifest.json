@@ -1,0 +1,11 @@
+{
+  "file": "ppf_golden_v06.zip",
+  "bytes": 598724,
+  "sha256": "1703bd0845bae6aa670bccb38b917c6504a23e9bdc83cdecb2492a00099aa5a9",
+  "members": [
+    "PPF_专项研究.docx",
+    "PPF_计算与门槛.xlsx"
+  ],
+  "platform_field": "参考答案",
+  "contains_golden_answers": true
+}

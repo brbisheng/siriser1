@@ -1,0 +1,15 @@
+{
+  "file": "ppf_references_v06.zip",
+  "bytes": 5273926,
+  "sha256": "18f9c70b7ebd9fd027477c9c2387d9895ac9cb8709d52a41d34579068e6eb2bd",
+  "members": [
+    "BIS_2022_原始研究.pdf",
+    "BoE_2022_汇率原始观察.csv",
+    "BoE_20260331_汇率原始观察.csv",
+    "BoE_OIS_2025至今_原始工作簿.xlsx",
+    "BoE_网页说明存档.docx",
+    "PPF_2025_26_原始年报.pdf",
+    "来源清单.json"
+  ],
+  "contains_golden_answers": false
+}

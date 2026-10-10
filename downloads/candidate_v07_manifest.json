@@ -1,0 +1,23 @@
+{
+  "identity": "PPF v0.7 candidate, platform scores unmeasured",
+  "files": [
+    {
+      "file": "ppf_golden_v07.zip",
+      "bytes": 2597267,
+      "sha256": "537fc8ac3c108a4476b82e5ce06f7a7971c18f83f1df17b9a6d5766d6414b486"
+    },
+    {
+      "file": "ppf_platform_fields_v07.md",
+      "bytes": 14318,
+      "sha256": "9b80b04e36322c7f905c00a0be69806acb07c7efe7fb0d044be8afa3d33225cd"
+    },
+    {
+      "file": "ppf_task_v07.txt",
+      "bytes": 12018,
+      "sha256": "faf508c9a548e001d754de522ff805d99debcd965743041b41ca2c7c2cab5fe8"
+    }
+  ],
+  "reference_inputs": "ppf_references_v06.zip",
+  "reference_inputs_unchanged": true,
+  "contains_private_chat": false
+}

@@ -1,6 +1,10 @@
-# PPF v0.6 platform files
+# PPF platform materials
 
-- Reference files: `downloads/ppf_references_v06.zip` (seven inputs).
-- Reference answers: `downloads/ppf_golden_v06.zip` (two golden deliverables). Upload these only to the reference-answer field, not the model input field.
+The v0.7 candidate is prepared for another platform trial; its difficulty and acceptance have not been measured.
 
-The two manifests record file sizes, members and SHA256 checksums. No private conversation history or credentials are included.
+- Full 10-field paste guide: `downloads/ppf_platform_fields_v07.md`.
+- Reference inputs: `downloads/ppf_references_v06.zip` (seven unchanged public inputs).
+- Reference answers: `downloads/ppf_golden_v07.zip` (two files, only for the reference-answer field).
+- Task body: `downloads/ppf_task_v07.txt`.
+
+Previous v0.6 files remain for historical comparison. Manifests contain SHA256 checksums. No private conversation or correction records are included.
